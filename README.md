@@ -1,15 +1,17 @@
 ## Using Machine Learning Algorithm "Linear Regression" to predict a car's Mileage using other attributes of car.
 
-# Hi, I'm Ravi Shankar Yadav 👋
+## I'm Ravi Shankar Yadav 
 
 
-# 🚀 About Me
+##  About Me
 I'm a Machine Learning Engineer.
 
 
-## 🔗 Links
+##  Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/raviiiyadav)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-shankar-yadav-212276184)
+
+
 ## 🛠 Skills
 1. Python
 2. Statistics
@@ -22,6 +24,6 @@ I'm a Machine Learning Engineer.
 
 
 
-# Profile summary
+## Profile summary
 ![Logo](https://github-readme-stats.vercel.app/api?username=raviiiyadav&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
