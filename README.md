@@ -1,4 +1,4 @@
-# Using Machine Learning Algorithm "Linear Regression" to predict a car's Mileage using other attributes of car.
+## Using Machine Learning Algorithm "Linear Regression" to predict a car's Mileage using other attributes of car.
 
 # Hi, I'm Ravi Shankar Yadav 👋
 
